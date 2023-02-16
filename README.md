@@ -1,7 +1,6 @@
 # trellouz
 Trello uz bot 3 language
 
-![image](https://user-images.githubusercontent.com/113756535/219476445-83019314-92a0-4eac-a95e-2186b31ee0bc.png)
 ![image](https://user-images.githubusercontent.com/113756535/219476782-b4fa7b22-3c19-4bdc-9b59-b32975456100.png)
 ![image](https://user-images.githubusercontent.com/113756535/219476692-3f6105ae-014f-41bb-9f05-f92839995bd3.png)
 
