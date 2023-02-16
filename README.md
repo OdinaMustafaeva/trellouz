@@ -1,5 +1,5 @@
 # trellouz
-Trello uz bot 3 language
+Trello uz bot 3 language https://github.com/OdinaMustafaeva/trellouz/blob/main/messages.py
 
 ![image](https://user-images.githubusercontent.com/113756535/219476782-b4fa7b22-3c19-4bdc-9b59-b32975456100.png)
 ![image](https://user-images.githubusercontent.com/113756535/219476692-3f6105ae-014f-41bb-9f05-f92839995bd3.png)
