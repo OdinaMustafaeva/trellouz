@@ -8,5 +8,11 @@ user dan kelayotgan tilni oladi va tekshiradi agar uz yoki ru yoki en bolmasa en
 
 ![image](https://user-images.githubusercontent.com/113756535/219476941-acde564e-8a10-4051-bbaa-76b4003e69cd.png)
 ![image](https://user-images.githubusercontent.com/113756535/219477143-65297800-b28b-4ca8-83fb-4c72ffc58dfd.png)
+
+boardlarni va ulardagi listlarni chiqaradi 
+
 ![image](https://user-images.githubusercontent.com/113756535/219477825-07b292b1-ed9c-42cd-b5be-cb9785bc2d29.png)
+
+ularga yangi list qushish mumkin
+
 ![image](https://user-images.githubusercontent.com/113756535/219477876-a3b658f4-716d-4620-b2af-1bfd3105fec1.png)
